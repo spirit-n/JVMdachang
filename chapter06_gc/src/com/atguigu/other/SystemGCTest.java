@@ -17,6 +17,6 @@ public class SystemGCTest {
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
-        System.out.println("SystemGCTest 重写了finalize()");
+        // System.out.println("SystemGCTest 重写了finalize()");
     }
 }
