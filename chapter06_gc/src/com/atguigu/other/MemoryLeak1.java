@@ -18,7 +18,7 @@ public class MemoryLeak1 {
     public static void main(String[] args) {
         init();
         testWeakHashMap();
-        testHashMap();
+        // testHashMap();
     }
 
     public static void init() {
