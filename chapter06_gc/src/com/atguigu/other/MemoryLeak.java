@@ -14,7 +14,7 @@ public class MemoryLeak {
 
         set.add(p1);
         set.add(p2);
-        // p1.name = "CC";
+        p1.name = "CC";
         set.remove(p1);
         System.out.println(set);
     }
