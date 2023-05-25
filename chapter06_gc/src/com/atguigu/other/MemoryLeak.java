@@ -3,7 +3,6 @@ package com.atguigu.other;
 import java.util.HashSet;
 
 /**
- * @author
  * @create 22:53
  */
 public class MemoryLeak {
