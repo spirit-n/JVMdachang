@@ -2,7 +2,7 @@ package com.atguigu.other;
 
 /**
  * @author shkstart
- * @create 2020
+ * @create
  */
 public class SystemGCTest {
     public static void main(String[] args) {
