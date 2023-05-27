@@ -1,7 +1,7 @@
 package com.atguigu.other;
 
 /**
- * @author shkstart
+ * @author
  * @create
  */
 public class SystemGCTest {
