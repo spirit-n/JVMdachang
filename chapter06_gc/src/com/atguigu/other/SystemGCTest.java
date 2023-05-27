@@ -1,7 +1,6 @@
 package com.atguigu.other;
 
 /**
- * @author
  */
 public class SystemGCTest {
     public static void main(String[] args) {
