@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * -Xms60m -Xmx60m -XX:SurvivorRatio=8 -XX:+PrintGCDetails -Xloggc:./logs/gc.log
  *
  * @author
- * @create
+ * @create 2020-05-31 10:37 下午
  */
 public class GCLogTest {
     public static void main(String[] args) {
