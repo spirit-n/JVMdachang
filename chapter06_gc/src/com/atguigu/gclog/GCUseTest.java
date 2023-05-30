@@ -15,7 +15,7 @@ import java.util.ArrayList;
  *
  *  -XX:+UseConcMarkSweepGC：表明老年代使用CMS GC。同时，年轻代会触发对ParNew 的使用
  *
- * @author shkstart
+ * @author
  * @create 2021  0:10
  */
 public class GCUseTest {
