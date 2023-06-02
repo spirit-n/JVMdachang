@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 /**
  * -Xms60m -Xmx60m -XX:SurvivorRatio=8 -XX:+PrintGCDetails -Xloggc:./logs/gc.log
- *
  */
 public class GCLogTest {
     public static void main(String[] args) {
