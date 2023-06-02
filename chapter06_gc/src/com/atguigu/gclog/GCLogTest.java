@@ -14,6 +14,7 @@ public class GCLogTest {
             list.add(arr);
             try {
                 Thread.sleep(10);
+
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
