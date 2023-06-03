@@ -3,7 +3,7 @@ package com.atguigu.gclog;
 /**
  * 在jdk7 和 jdk8中分别执行
  * -verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+UseSerialGC
- * @author
+ *
  */
 public class GCLogTest1 {
     private static final int _1MB = 1024 * 1024;
