@@ -3,7 +3,7 @@ package com.atguigu.other;
 /**
  * 测试Object类中finalize()方法，即对象的finalization机制。
  *
- * @author
+ *
  */
 public class FinalizeObj {
     public static FinalizeObj obj;//类变量，属于 GC Root
