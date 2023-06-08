@@ -3,7 +3,6 @@ package com.atguigu.java;
 import org.junit.Test;
 
 /**
- *
  * @create 12:31
  */
 public class ByteCodeInterview {
