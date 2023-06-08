@@ -3,7 +3,7 @@ package com.atguigu.java;
 import org.junit.Test;
 
 /**
- * @create 12:31
+ * @create
  */
 public class ByteCodeInterview {
     //面试题： i++和++i有什么区别？
