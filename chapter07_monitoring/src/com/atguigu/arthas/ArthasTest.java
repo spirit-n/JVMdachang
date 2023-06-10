@@ -14,7 +14,6 @@ import java.util.logging.Logger;
 /**
  * Arthas Demo
  *
- * @Author
  */
 @Slf4j
 public class ArthasTest {
