@@ -13,7 +13,6 @@ import java.util.logging.Logger;
 
 /**
  * Arthas Demo
- *
  */
 @Slf4j
 public class ArthasTest {
