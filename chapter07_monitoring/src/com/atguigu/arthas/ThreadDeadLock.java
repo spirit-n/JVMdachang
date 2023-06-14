@@ -3,7 +3,7 @@ package com.atguigu.arthas;
 /**
  * 演示线程的死锁问题
  *
- * @author
+ * @
  */
 public class ThreadDeadLock {
 
