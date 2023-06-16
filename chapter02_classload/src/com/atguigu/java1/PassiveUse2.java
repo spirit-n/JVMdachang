@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Random;
 
 /**
- * @create 2020-09-14
+ * @create 2020-09-
  *
  *  * 3. 引用常量不会触发此类或接口的初始化。因为常量在链接阶段就已经被显式赋值了。
  *  * 4. 调用ClassLoader类的loadClass()方法加载一个类，并不是对类的主动使用，不会导致类的初始化。
