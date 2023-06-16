@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Random;
 
 /**
- * @author shkstart
+ * @author
  * @create 2020-09-14 17:30
  *
  *  * 3. 引用常量不会触发此类或接口的初始化。因为常量在链接阶段就已经被显式赋值了。
