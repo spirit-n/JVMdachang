@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  * -Xms600m -Xmx600m -XX:SurvivorRatio=8
- * @author
+ *
  *
  */
 public class OOMTest {
