@@ -3,7 +3,7 @@ package com.atguigu.jps;
 import java.util.Scanner;
 
 /**
- * @create 14:57
+ * @create
  *
  */
 public class JPSTest {
