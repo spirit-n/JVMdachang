@@ -3,7 +3,6 @@ package com.atguigu.jps;
 import java.util.Scanner;
 
 /**
- *
  * @create 14:57
  *
  */
