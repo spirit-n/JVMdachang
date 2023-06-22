@@ -6,7 +6,6 @@ import java.io.IOException;
 
 /**
  * @author shkstart
- *
  */
 public class UserDefineClassLoader extends ClassLoader {
 
