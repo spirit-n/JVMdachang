@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
- * @author shkstart
+ * @author
  */
 public class UserDefineClassLoader extends ClassLoader {
 
