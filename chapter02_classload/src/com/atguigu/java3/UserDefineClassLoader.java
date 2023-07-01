@@ -4,8 +4,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-/*
- */
+
 public class UserDefineClassLoader extends ClassLoader {
 
     private String rootPath;
