@@ -8,7 +8,7 @@ import java.util.UUID;
 
 /**
  * 案例3：测试 GC overhead limit exceeded
- * @author shkstart
+ * @author
  * @create 16:57
  */
 public class OOMTest {
