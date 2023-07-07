@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.Random;
 
 /**
- * @
+ *
  *
  * 测试类的主动使用：意味着会调用类的<clinit>()，即执行了类的初始化阶段
  *
