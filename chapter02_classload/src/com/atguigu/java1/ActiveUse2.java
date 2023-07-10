@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Random;
 
 /**
- * @create
+ * @
  *
  * 3. 当使用类、接口的静态字段时(final修饰特殊考虑)，比如，使用getstatic或者putstatic指令。
  *
