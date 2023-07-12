@@ -3,7 +3,6 @@ package com.atguigu.jps;
 import java.util.Scanner;
 
 /**
- *
  */
 public class JPSTest {
     public static void main(String[] args) {
